@@ -1,0 +1,20 @@
+// Jason build commands
+{
+    "version": "2.0.0",
+    "type": "shell",
+    "reveal": "always",
+    "options": {
+        "cwd": "${workspaceRoot}",
+    },
+    "tasks": [
+        {
+            "command": "jason",
+            "label": "Run with Jason",
+            "args": [
+                "ctf.mas2j",
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

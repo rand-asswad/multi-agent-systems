@@ -1,0 +1,9 @@
+#
+#Wed Apr 12 14:41:58 CEST 2017
+operators=-~as~envelope~*~count~.~/~+~rnd~circle~?~\:~as_edge_graph~one_of~any_location_in~among~\=
+plugins=msi.gama.core~ummisco.gama.opengl
+statements=aspect~draw~init~create~set~ask~reflex~do~output~display~display_population
+skills=reflex~moving
+constants=minute~km~h~red~green~black~gray
+types=string~list~int~unknown~file~geometry~point~agent~rgb~float~bool~date~container~graph
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
