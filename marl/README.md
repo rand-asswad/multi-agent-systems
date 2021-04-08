@@ -18,7 +18,7 @@ the curse of dimensionality in large MARL systems in different
 situations of games (general-sum games, zero-sum games, and team games).
 
 
-The documents are written in French as per course instructions:
+The documents are written in French as per course requirements:
 
-- [My review paper](paper.pdf)
-- [My presentation slides](presentation.pdf)
+- [My review paper](https://rand-asswad.github.io/multi-agent-systems/paper.pdf)
+- [My presentation slides](https://rand-asswad.github.io/multi-agent-systems/presentation.pdf)
